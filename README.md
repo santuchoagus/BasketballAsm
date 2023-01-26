@@ -3,10 +3,10 @@ Basketball game using TASM for x86 architecture.
 
 > This is a personal game assignment for my university. it uses Borland's Turbo Assembler, this can be executed using DOSBox intel 8086 emulator.
 > The executable is already uploaded.
-> You may encounter certain bugs like cursor erasing part of the map, this was done in a week so I didn't have time to polish or add an scoring system.
+> You may encounter certain bugs like cursor erasing part of the map, this was done in a week so I didn't have time to polish or add a scoring system.
 > The comments are in spanish but I will consider translating it to english on my free time. 
 
-if you wanna compile and link it yourself you need to install TASM properly and execute the next commands.
+if you want to compile and link it yourself you need to install TASM properly and execute the next commands.
 ```
 TASM MAIN
 TASM LIB
